@@ -1,4 +1,4 @@
-Meu Primeiro Projeto da DIO - BOOTCAMP SSANTANDER EXCEL COM IA 
+Meu Primeiro Projeto da DIO - BOOTCAMP SANTANDER EXCEL COM IA 
 
 Simulador de Investimentos em Fundos Imobiliários (FIIs)
 
