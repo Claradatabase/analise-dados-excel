@@ -1,6 +1,7 @@
 Meu Primeiro Projeto da DIO - BOOTCAMP SSANTANDER EXCEL COM IA 
 
 Simulador de Investimentos em Fundos Imobiliários (FIIs)
+
 Descrição do Projeto
 Este repositório contém uma ferramenta de simulação financeira desenvolvida em Excel para análise de viabilidade e projeção de investimentos em Fundos Imobiliários. O objetivo principal é automatizar o cálculo de acumulação de patrimônio e geração de renda passiva com base em variáveis de mercado e perfil de investidor.
 
